@@ -1,0 +1,1 @@
+To run the webpage app.py is used , using flask a URL is given to copy and paste it in the browser then the webpage will be interactive and will let users enter their name and email then another page is displayed that shows the name and email the user entered
